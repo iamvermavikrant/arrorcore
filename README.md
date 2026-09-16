@@ -1,5 +1,7 @@
 # arrorcore
 
+Playwright Python end to end framework
+
 A lightweight Playwright + Python test automation framework (POC), using the Page Object Model and generating a static HTML report.
 
 ## Structure
