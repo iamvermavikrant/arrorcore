@@ -183,7 +183,21 @@ allure open reports/allure-report
 - A **step-by-step timeline** for each test, with duration per step
 - **Screenshots** attached at key assertion points, viewable inline
 
-A sample snapshot is included at `reports/allure_snapshot.png` for quick reference without running anything.
+### Sample snapshots
+
+Included in `reports/` for quick reference without running anything:
+
+**Overview dashboard** — pass rate, suites, and feature breakdown at a glance
+
+![Allure overview dashboard](reports/allure_overview.png)
+
+**Behaviors view** — tests grouped by Feature → Story
+
+![Allure behaviors view](reports/allure_behaviors.png)
+
+**Test detail view** — step-by-step timeline with duration and an attached screenshot
+
+![Allure test detail view](reports/allure_snapshot.png)
 
 ---
 
